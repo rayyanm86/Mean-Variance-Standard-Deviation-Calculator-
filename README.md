@@ -29,7 +29,6 @@ boilerplate-mean-variance-standard-deviation-calculator/
 │
 ├── mean_var_std.py         # Main module containing the calculate() function
 ├── main.py                 # Used to manually run and test the function
-├── test_module.py          # Unit tests to validate your implementation
 ├── README.md               # This file
 ```
 
